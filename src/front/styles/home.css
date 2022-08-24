@@ -1,7 +1,30 @@
-/*
-    home.css: This website contains selectors only used in home.css
+.footer {
+  position: absolute;
+  margin-bottom: 9px;
+  left: 0px;
+  bottom: 0px;
+  height: 20px;
+  width: 100%;
+  background: rgb(204, 139, 139);
+}
 
-    All pages share the styles on index.css but you should create 
-    one more css for each page that will contain the selected used 
-    on that page only (the ones not reused in other pages).
-*/
+.Signup {
+  position: absolute;
+  right: 20%;
+  padding: 80px;
+  text-align: center;
+}
+.titulo-s {
+  text-align: center;
+}
+
+.Login {
+  position: absolute;
+  right: 30%;
+  padding: 80px;
+  text-align: center;
+}
+
+.titulo-l {
+  text-align: center;
+}
